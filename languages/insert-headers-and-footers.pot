@@ -1,0 +1,68 @@
+# (C) 2019 KiduNotifier developed by ITS - Info Twist Solutions
+# This file is distributed under the same license as the KiduNotifier plugin.
+msgid ""
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "KiduNotifier"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://its.net.in/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plug-in will be used for integrate pixel code with KiduNotifier web portal"
+msgstr ""
+
+#. Author of the plugin
+msgid "ITS - Info Twist Solutions"
+msgstr ""
+
+#: views/settings.php:2
+msgid "Settings"
+msgstr ""
+
+#: views/settings.php:23
+msgid "Pixel Key Settings"
+msgstr ""
+
+#: views/settings.php:28
+msgid "Pixel API Key"
+msgstr ""
+
+#: views/settings.php:29
+msgid "Paste your API key here"
+msgstr ""
+
+#: views/settings.php:31
+msgid "These pixel code will be printed above the <code>&lt;/body&gt;</code> tag."
+msgstr ""
+
+#: views/settings.php:35
+msgid "Save My Key"
+msgstr ""
+
+#. translators: %s: Name of this plugin
+
+
+#: kidunotifier.php:145
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: kidunotifier.php:154
+msgid "nonce field is missing. Settings NOT saved."
+msgstr ""
+
+#: kidunotifier.php:157
+msgid "Invalid nonce specified. Settings NOT saved."
+msgstr ""
+
+#: kidunotifier.php:165
+msgid "Settings Saved."
+msgstr ""
+
+#: admin_notice.php:48
+msgid "Plugin review notification."
+msgstr ""
